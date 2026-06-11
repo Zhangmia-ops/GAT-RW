@@ -1,0 +1,13 @@
+{
+  "meta_data": {
+    "algorithm": "GAT-NaiveRW_SimpleRW",
+    "dataset": "amazon_weight",
+    "mask_cnt": "150"
+  },
+  "metrics": {
+    "mse": 0.035323,
+    "pcc": 0.249385,
+    "mae": 0.16345
+  },
+  "raw_results": []
+}
